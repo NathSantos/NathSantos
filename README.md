@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Nathália Santos, estudante de Ciência da Computação :)
 
-- 📚 Estudo na Universidade Federal do Amazonas - UFAM
+- 🏛️ Estudo na Universidade Federal do Amazonas - UFAM
 - 🌱 Estudando Atualmente: Java e Data Science em Python
 - 😄 Pronomes: ela/dela
 
