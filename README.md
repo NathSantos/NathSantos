@@ -1,8 +1,8 @@
-## Oiii! Eu sou a Nathália Santos, estudante de Ciência da Computação :)
+## Oiii! Eu sou a Nathália Santos, graduanda de Ciência da Computação :)
 
-- 🏛️ Estudo na Universidade Federal do Amazonas - UFAM
-- 💻 Atualmente estou no 4º período
-- 🌱 Estudando Atualmente: Java (Orientação a objetos) e Data Science em Python
+- 🏛️ Universidade Federal do Amazonas - UFAM
+- 💻 Atualmente no 5º período
+- 🌱 Estudando Atualmente: Web Scraping e Machine Learning em Python
 - 😄 Pronomes: ela/dela
 
 <div align="center">
