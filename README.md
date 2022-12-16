@@ -3,7 +3,7 @@
 - 🏛️ Universidade Federal do Amazonas - UFAM
 - 📕 Atualmente no 5º período
 - 💻 Linguagens que mais tive experiência: Python, Java e C.
-- 🌱 Estudando Atualmente: Web Scraping e Machine Learning em Python
+- 🌱 Estudando Atualmente: Javascript e Machine Learning em Python
 - 😄 Pronomes: ela/dela
 
 <div align="center">
