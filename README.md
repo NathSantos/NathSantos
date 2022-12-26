@@ -17,5 +17,7 @@
       <img align="center" alt="Nath-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Nath-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
       <img align="center" alt="Nath-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      <img align="center" alt="Nath-Html" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
+      <img align="center" alt="Nath-Css" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
     </div>
 </div>
