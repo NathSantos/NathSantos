@@ -3,7 +3,7 @@
 - 🏛️ Universidade Federal do Amazonas - UFAM
 - 📕 Atualmente no 5º período
 - 💻 Linguagens que mais tive experiência: Python, Java e C.
-- 🌱 Estudando Atualmente: HTML, CSS e Javascript.
+- 🌱 Estudando Atualmente: Desenvolvimento Web (HTML, CSS, JS, REACT, NODE, EXPRESS,...).
 - 😄 Pronomes: ela/dela
 
 <div align="center">
